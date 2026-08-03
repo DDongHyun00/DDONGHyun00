@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=11A5F7&background=209AFF00&width=435&lines=Hello%2C+I'm+DongHyun%F0%9F%98%84;Always+learning+something+new%F0%9F%9A%80)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:8EC5FC,100:E0C3FC&height=200&section=header&text=DongHyun00&fontSize=60&fontColor=ffffff)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=24F7D9&background=209AFF00&width=435&lines=Always+learning+something+new%F0%9F%9A%80)](https://git.io/typing-svg)
 ---
 **Studying...📚** <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
