@@ -71,7 +71,7 @@
 </tr>
 </table>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600">
