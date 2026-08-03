@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="600">
+</p>
