@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/prettier-FF69B4?style=for-the-badge&logo=prettier&logoColor=white">
 </div>
 
+
 </td>
 <td width="50%" valign="top">
 
